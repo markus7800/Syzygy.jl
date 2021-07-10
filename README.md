@@ -1,7 +1,7 @@
 
 # Syzygy.jl
 
-Probing code for Syzygy tablebases based on [Python Chess Syzygy](https://github.com/niklasf/python-chess/blob/master/chess/syzygy.py
+Probing code for [Syzygy](https://syzygy-tables.info) tablebases based on [Python Chess Syzygy](https://github.com/niklasf/python-chess/blob/master/chess/syzygy.py
 ).
 
 Download tablebases from [here](https://chess.massimilianogoi.com/download/tablebases/).
