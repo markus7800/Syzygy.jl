@@ -6,6 +6,10 @@ using Chess
 include("chess+.jl")
 import Mmap
 
+export Table, Tablebase
+
+export open_tablebase, get_wdl, probe_wdl, get_dtz, probe_dtz, add_directory
+
 const SQTOPOS = [
     56, 48, 40, 32, 24, 16, 8, 0,
     57, 49, 41, 33, 25, 17, 9, 1,
